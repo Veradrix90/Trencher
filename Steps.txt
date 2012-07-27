@@ -1,0 +1,27 @@
+Trencher Fabrication: Head
+
+1 Cut two 8"x8" pieces of metal
+2 Torch a x" hole on a 8''x8'' piece of 0.5" thickness metal
+3 Cut 6 arms of x length from a 2"x2"x3/16" square tubing
+4 Drill the arms with x holes spaced at y" length for .5" bolts
+5 Torch the end curves on the arms
+6 Grind the ends to make them smooth
+7 Cut 6 1.5"x1/4" square tubing for the teeth holders
+8 Drill .5" holes on the teeth holders(adjust it so you can have the outer diameter go from 36" to 48")
+9 Attach the teeth to the the 1.5"x1/4" square tubing
+10 cut six pieces of reebar supporting pieces x" long
+11 Cut corners on the supporting pieces with a metal cutoff saw
+12 Mark a location for a 3/4" hole
+13 Torch out the 3/4" hole on the tube
+14 Weld two 3/4" nuts on either sides of the tube
+15 Weld the six arms on the tube and leave .5" space between the tube and the arms
+16 Weld the two 8"x8" pieces of metal on the sides of the arms
+17 Weld the supporting pieces on the arms
+
+Trencher Fabrication: Motor
+
+1 Cut a 3"x4" .5" piece of metal
+2 Torch out a bigger hole on the attachment tab
+3 Weld the 3"x4" .5" piece on the LifeTrac
+4 Bolt the motor on the attachment plate
+5 Mount the motor on the Lifetrac
